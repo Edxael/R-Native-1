@@ -22,6 +22,10 @@ Problems with the version of Node & NPM so
 
     List of Node.js Versions: http://nodejs.org/dist/
 
+- Install the virtual Android-Device: 
+    https://facebook.github.io/react-native/docs/getting-started.html
+        - npm install -g react-native-cli
+
 
     Installations:
 -----------------------------------------------------------------------
@@ -45,6 +49,10 @@ https://facebook.github.io/react-native/docs/getting-started.html
 
 Phone App to open project:
 https://expo.io/
+Youtube: "Getting started with React Native and Expo":  https://www.youtube.com/watch?v=yuaE8_nXmeY
+Install "Expo XDE" in computer: https://expo.io/
+https://expo.io/tools
+Youtube: How to deploy: https://www.youtube.com/watch?v=6XJhgeuUszQ
 
 
 https://facebook.github.io/react-native/docs/running-on-device.html
@@ -55,3 +63,11 @@ https://expo.io/
 
 
 Edmundo Rubio. 
+
+
+
+--------------------
+Posible emulators:
+
+http://www.linuxandubuntu.com/home/anbox-runs-android-in-your-linux-without-emulation
+https://anbox.io/
