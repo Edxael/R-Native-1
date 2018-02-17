@@ -61,6 +61,12 @@ https://facebook.github.io/react-native/docs/running-on-device.html
 Fastes way to test:
 https://expo.io/
 
+Installing ExpoXDK:
+https://github.com/expo/xde
+Make it executable:
+chmod a+x exampleName.AppImage
+
+
 
 Edmundo Rubio. 
 
@@ -71,3 +77,5 @@ Posible emulators:
 
 http://www.linuxandubuntu.com/home/anbox-runs-android-in-your-linux-without-emulation
 https://anbox.io/
+
+Android Studio: https://developer.android.com/studio/index.html
