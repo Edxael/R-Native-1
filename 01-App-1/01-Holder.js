@@ -26,3 +26,26 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+
+
+
+//     return(
+//       <View style={ myStyle.mainCont } >
+//         <Text>
+//           <Text>My First Phone App</Text>
+//           <Text>Providign Information</Text>
+//           <Text>By: Edmundo Rubio</Text>
+//         </Text>
+//       </View>
+//     )
+//   }
+// }
+
+// const myStyle = StyleSheet.create({
+//   mainCont: {
+//     flex: 1,
+//     backgroundColor: 'aquamarine',
+//     alignItems: 'center',
+//     justifyContent: 'center',
+//   }
+// })
