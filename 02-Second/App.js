@@ -6,8 +6,8 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <FilesComp/>
-        <Text>Open up App.js to start working on your app!..</Text>
+
+        <FilesComp data="Cops"/>
         
       </View>
     );
